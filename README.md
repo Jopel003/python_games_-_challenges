@@ -1,12 +1,12 @@
 # Игры на python и решения к онлайн-тренажерам в виде игр .
 
 ## Оглавление  
-[1. Описание проекта Elevator](https://github.com/Jopel003/my_works/blob/main/Games/README.md#Описание-проекта-Elevator)  
-[2. Какой кейс решаем?](https://github.com/Jopel003/my_works/blob/main/Games/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Jopel003/my_works/blob/main/Games/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Jopel003/my_works/blob/main/Games/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Jopel003/my_works/blob/main/Games/README.md#Результат)  
-[6. Выводы](https://github.com/Jopel003/my_works/blob/main/Games/README.md#Выводы)     
+[1. Описание проекта Elevator](https://github.com/Jopel003/python_games_and_challenges/blob/main/README.mdd#Описание-проекта-Elevator)  
+[2. Какой кейс решаем?](https://github.com/Jopel003/python_games_and_challenges/blob/main/README.mdКакой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Jopel003/python_games_and_challenges/blob/main/README.mdКраткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Jopel003/python_games_and_challenges/blob/main/README.mdЭтапы-работы-над-проектом)  
+[5. Результат](https://github.com/Jopel003/python_games_and_challenges/blob/main/README.mdРезультат)  
+[6. Выводы](https://github.com/Jopel003/python_games_and_challenges/blob/main/README.mdВыводы)     
 
 ### Описание проекта Elevator   
 Проект по созданию программы, которая угадывает загаданное компьютером число за минимальное количество попыток.
