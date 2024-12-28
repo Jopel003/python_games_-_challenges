@@ -1,5 +1,10 @@
 # импортируем pygame
 import pygame
+import os
+
+current_directory = os.path.dirname(os.path.abspath(__file__))
+# Устанавливаем текущую директорию в качестве рабочей директории
+os.chdir(current_directory)
 
 # задаём константы для неизменяющихся значений
 SCREEN_WIDTH = 470
