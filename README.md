@@ -6,7 +6,7 @@
 
 
 ### Описание проектов  
-0. Проект: создаём систему управления лифтами на Python
+0. Проект: создаём систему управления лифтами на Python *материалы взяты из журнала [КОД](https://thecode.media/proekt-sozdayom-sistemu-upravleniya-liftami-na-python/)
 
 
 ### PS:  
